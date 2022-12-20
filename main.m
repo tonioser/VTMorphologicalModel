@@ -13,7 +13,7 @@
 %   - Evaluate the morphological modelling in a leave-one-subject-out scheme 
 %   - Display the performance (percentage of variance explanation and RMS reconstruction error) of the model in the leave-one-subject-out scheme
 % 
-% Cite:
+% Any use and this code should cite the following paper:
 % Antoine Serrurier and Christiane Neuschaefer-Rube (2023, in review)
 % Morphological and acoustic modelling of the vocal tract
 % Journal of the Acoustical Society of America
